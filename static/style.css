@@ -1,0 +1,36 @@
+body {
+  background: #F4E7D3;
+}
+
+.wrapper{
+  min-height: 300px;
+  text-align: center;
+}
+
+.heading{
+  margin: 70px 0px 30px 0px;
+  font-weight: 900;
+  text-align: center;
+}
+
+p {
+  color: #1F4E5F;
+  text-align: center;
+}
+
+.picform{
+  margin: 70px 0px 30px 0px;
+  text-align: center;
+}
+
+img{
+  width: 500px;
+  height: auto;
+  object-fit: cover;
+}
+
+.answer{
+color: #ca1313;
+    margin: 70px 0px 30px 0px;
+    text-align: center;
+}
